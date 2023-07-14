@@ -1,0 +1,2181 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Riode.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Riode.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\ajax\\login.html",
+      "PackagePath": "staticwebassets\\assets\\ajax\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\css\\demo1.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\demo1.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\css\\demo23.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\demo23.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\fonts\\riode115b.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\riode115b.eot"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\fonts\\riode115b.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\riode115b.html"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\fonts\\riode115b.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\riode115b.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\fonts\\riode115b.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\riode115b.woff"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\agents\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\agents\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\agents\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\agents\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\agents\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\agents\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\agents\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\agents\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\agents\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\agents\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\1_lg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\1_lg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\1_xs.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\1_xs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\2_lg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\2_lg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\2_xs.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\2_xs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\2col\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\2col\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\2col\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\2col\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\2col\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\2col\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\2col\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\2col\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\2col\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\2col\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\2col\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\2col\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\3_lg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\3_lg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\3_xs.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\3_xs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\3col\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\3col\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\3col\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\3col\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\3col\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\3col\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\3col\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\3col\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\3col\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\3col\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\3col\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\3col\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\4_lg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\4_lg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\comments\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\comments\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\comments\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\comments\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\element\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\element\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\element\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\element\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\element\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\element\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\element\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\element\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\element\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\element\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\element\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\element\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\element\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\element\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\element\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\element\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\element\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\element\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\frame\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\frame\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\frame\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\frame\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\frame\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\frame\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\list\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\list\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\list\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\list\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\list\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\list\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\list\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\list\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\list\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\list\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\list\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\list\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\mask\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\mask\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\mask\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\mask\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\mask\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\mask\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\mask\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\mask\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\mask\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\mask\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\mask\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\mask\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\mask\\masonry\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\mask\\masonry\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\mask\\masonry\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\mask\\masonry\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\mask\\masonry\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\mask\\masonry\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\mask\\masonry\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\mask\\masonry\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\mask\\masonry\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\mask\\masonry\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\mask\\masonry\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\mask\\masonry\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\2col\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\2col\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\2col\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\2col\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\2col\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\2col\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\2col\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\2col\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\2col\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\2col\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\2col\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\2col\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\3col\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\3col\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\3col\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\3col\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\3col\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\3col\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\3col\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\3col\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\3col\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\3col\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\3col\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\3col\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\4col\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\4col\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\4col\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\4col\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\4col\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\4col\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\4col\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\4col\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\4col\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\4col\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\4col\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\4col\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\sidebar\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\sidebar\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\sidebar\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\sidebar\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\sidebar\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\sidebar\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\sidebar\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\sidebar\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\sidebar\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\sidebar\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\masonry\\sidebar\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\masonry\\sidebar\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\sidebar\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\sidebar\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\sidebar\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\sidebar\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\sidebar\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\sidebar\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\sidebar\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\sidebar\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\sidebar\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\sidebar\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\sidebar\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\sidebar\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\single\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\single\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\single\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\single\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\single\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\single\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\single\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\single\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\blog\\single\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\single\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\brands\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\brands\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\brands\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\brands\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\brands\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\brands\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\buttons\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\buttons\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\cart\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\cart\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cart\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category1.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category2.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category3.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category4.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category5.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\categories\\category9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categories\\category9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\cta\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cta\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\cta\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cta\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\banners\\banner1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\banners\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\banners\\banner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\banners\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\banners\\banner3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\banners\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\parallax.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\parallax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\products\\product9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\products\\product9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\slides\\slide1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\slides\\slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo1\\slides\\slide2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo1\\slides\\slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\banner\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\banner\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\banner\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\banner\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\banner\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\banner\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\banner\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\blog\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\blog\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\logo-footer.png",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\logo-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\page-header.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\page-header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\product\\product-1-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\product\\product-1-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\product\\product-1-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\product\\product-1-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\product\\product-2-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\product\\product-2-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\product\\product-2-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\product\\product-2-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\product\\product-3-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\product\\product-3-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\product\\product-3-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\product\\product-3-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\product\\product-4-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\product\\product-4-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\product\\product-4-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\product\\product-4-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\22-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\22-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\22.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\24-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\24-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\24.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\25-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\25-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\25.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\26-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\26-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\26.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\3-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\4-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\5-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\products\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\products\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\slides\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\slides\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo23\\slides\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo23\\slides\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\demos\\demo7\\products\\big1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\demos\\demo7\\products\\big1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\elements.png",
+      "PackagePath": "staticwebassets\\assets\\images\\elements.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\icons\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\instagram\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\logo-footer.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\menu\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\menu\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\newsletter-popup.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\newsletter-popup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\page-header\\about-us.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\page-header\\about-us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\page-header\\contact-us.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\page-header\\contact-us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\page-header\\faq.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\page-header\\faq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\payment.png",
+      "PackagePath": "staticwebassets\\assets\\images\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\featured1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\featured1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\featured2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\featured2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\featured3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\featured3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\featured4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\featured4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-1-1-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-1-1-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-1-1-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-1-1-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-1-2-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-1-2-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-1-2-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-1-2-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-1-3-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-1-3-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-1-3-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-1-3-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-1-4-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-1-4-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-1-4-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-1-4-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-1-600x675.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-1-600x675.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-10-1-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-10-1-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-10-2-230x258.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-10-2-230x258.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-10-3-330x371.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-10-3-330x371.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-10-4-230x258.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-10-4-230x258.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-10-5-330x371.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-10-5-330x371.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-11-1-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-11-1-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-11-2-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-11-2-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-11-3-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-11-3-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-12-1-137x137.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-12-1-137x137.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-12-1-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-12-1-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-12-1-800x900.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-12-1-800x900.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-12-2-137x137.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-12-2-137x137.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-12-2-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-12-2-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-12-2-800x900.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-12-2-800x900.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-12-3-137x137.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-12-3-137x137.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-12-3-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-12-3-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-12-3-800x900.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-12-3-800x900.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-12-4-137x137.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-12-4-137x137.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-12-4-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-12-4-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-12-4-800x900.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-12-4-800x900.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-13-1-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-13-1-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-13-2-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-13-2-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-13-3-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-13-3-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-13-4-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-13-4-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-14-1-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-14-1-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-14-2-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-14-2-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-14-3-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-14-3-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-14-4-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-14-4-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-15-1-137x137.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-15-1-137x137.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-15-1-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-15-1-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-15-2-137x137.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-15-2-137x137.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-15-2-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-15-2-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-15-3-137x137.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-15-3-137x137.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-15-3-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-15-3-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-15-4-137x137.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-15-4-137x137.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-15-4-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-15-4-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-2-1-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-2-1-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-2-1-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-2-1-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-2-2-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-2-2-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-2-2-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-2-2-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-2-3-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-2-3-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-2-3-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-2-3-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-2-4-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-2-4-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-2-4-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-2-4-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-3-1-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-3-1-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-3-1-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-3-1-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-3-2-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-3-2-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-3-2-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-3-2-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-3-3-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-3-3-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-3-3-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-3-3-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-3-4-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-3-4-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-3-4-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-3-4-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-4-1-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-4-1-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-4-1-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-4-1-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-4-2-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-4-2-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-4-2-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-4-2-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-4-3-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-4-3-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-4-3-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-4-3-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-4-4-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-4-4-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-4-4-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-4-4-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-5-1-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-5-1-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-5-1-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-5-1-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-5-1-800x900.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-5-1-800x900.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-5-2-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-5-2-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-5-2-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-5-2-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-5-2-800x900.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-5-2-800x900.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-5-3-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-5-3-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-5-3-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-5-3-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-5-3-800x900.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-5-3-800x900.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-5-4-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-5-4-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-5-4-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-5-4-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-5-4-800x900.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-5-4-800x900.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-6-1-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-6-1-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-6-1-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-6-1-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-6-1-800x900.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-6-1-800x900.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-6-2-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-6-2-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-6-2-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-6-2-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-6-2-800x900.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-6-2-800x900.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-6-3-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-6-3-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-6-3-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-6-3-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-6-3-800x900.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-6-3-800x900.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-6-4-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-6-4-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-6-4-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-6-4-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-6-4-800x900.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-6-4-800x900.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-7-1-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-7-1-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-7-1-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-7-1-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-7-2-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-7-2-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-7-2-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-7-2-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-7-3-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-7-3-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-7-3-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-7-3-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-7-4-109x122.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-7-4-109x122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-7-4-580x652.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-7-4-580x652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-8-1-137x137.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-8-1-137x137.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-8-1-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-8-1-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-8-2-137x137.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-8-2-137x137.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-8-2-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-8-2-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-8-3-137x137.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-8-3-137x137.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-8-3-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-8-3-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-8-4-137x137.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-8-4-137x137.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-8-4-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-8-4-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-9-1-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-9-1-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-9-2-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-9-2-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-9-3-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-9-3-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-9-4-580x580.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-9-4-580x580.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-thumb-next.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-thumb-next.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product-thumb-prev.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product-thumb-prev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\product.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\product.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\product\\size_guide.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\size_guide.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\products\\product1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\products\\product10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\products\\product11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\products\\product12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\products\\product13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\products\\product14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\products\\product18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\products\\product19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\products\\product2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\products\\product3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\products\\product4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\products\\product5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\products\\product6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\products\\product7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\products\\product8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\products\\product9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\banner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\page-header-back.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\page-header-back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\product-widget1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-widget1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\product-widget2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-widget2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\shop\\product-widget3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-widget3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\subpages\\404.png",
+      "PackagePath": "staticwebassets\\assets\\images\\subpages\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\subpages\\coming-soon.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\subpages\\coming-soon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\subpages\\customer.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\subpages\\customer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\subpages\\store-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\subpages\\store-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\subpages\\store-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\subpages\\store-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\subpages\\store-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\subpages\\store-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\subpages\\store-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\subpages\\store-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\subpages\\store.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\subpages\\store.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\subpages\\team1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\subpages\\team1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\subpages\\team2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\subpages\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\subpages\\team3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\subpages\\team3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\images\\subpages\\team4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\subpages\\team4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\js\\webfont.js",
+      "PackagePath": "staticwebassets\\assets\\js\\webfont.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\elevatezoom\\jquery.elevatezoom.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\elevatezoom\\jquery.elevatezoom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\jquery.count-to\\jquery.count-to.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery.count-to\\jquery.count-to.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\jquery.countdown\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery.countdown\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\jquery.gmap\\jquery.gmap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery.gmap\\jquery.gmap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\jquery.plugin\\jquery.plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery.plugin\\jquery.plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\magnific-popup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\magnific-popup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\magnific-popup\\magnific-popup.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\magnific-popup\\magnific-popup.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\nouislider\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\nouislider\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\nouislider\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\nouislider\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\owl-carousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\owl-carousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\owl-carousel\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\vendor\\owl-carousel\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\parallax\\parallax.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\parallax\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\photoswipe\\default-skin\\default-skin.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\photoswipe\\default-skin\\default-skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\photoswipe\\default-skin\\default-skin.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\photoswipe\\default-skin\\default-skin.png"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\photoswipe\\default-skin\\default-skin.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\photoswipe\\default-skin\\default-skin.svg"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\photoswipe\\default-skin\\preloader.gif",
+      "PackagePath": "staticwebassets\\assets\\vendor\\photoswipe\\default-skin\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\photoswipe\\photoswipe-ui-default.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\photoswipe\\photoswipe-ui-default.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\photoswipe\\photoswipe.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\photoswipe\\photoswipe.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\photoswipe\\photoswipe.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\photoswipe\\photoswipe.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\vendor\\sticky\\sticky.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\sticky\\sticky.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\assets\\video\\memory-of-a-woman.mp4",
+      "PackagePath": "staticwebassets\\assets\\video\\memory-of-a-woman.mp4"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alita\\Desktop\\Programming\\Practice\\C#\\Projects\\riode-aspnetcore-shop\\Riode\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Riode.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Riode.props",
+      "PackagePath": "build\\Riode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Riode.props",
+      "PackagePath": "buildMultiTargeting\\Riode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Riode.props",
+      "PackagePath": "buildTransitive\\Riode.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
